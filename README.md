@@ -1,6 +1,6 @@
 # AddCycle
 
-- 👋 Hi, I’m @AddCycle, a 3rd year student at Ingineering IT school EPITA
+- 👋 Hi, I’m @AddCycle, an IT student
 - 👀 I’m interested in Programming, Videogames and making/contributing to opensource projects
 - 🌱 I’m currently learning Javascript and C++
 - 💞️ I’m looking to collaborate on some game projects because it's more fun but I'd like to learn by contributing on every subject
